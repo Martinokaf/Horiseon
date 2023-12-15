@@ -16,7 +16,7 @@ This challenge requires me to refactor the codebase for Horiseon marketing agenc
 ## Usage
 
 Now that the website is fully accessible, more people who require screen reading devices can visit it.
-(/assets/images/deployed-Horiseon-.jpg)
+!(/assets/images/deployed-Horiseon-.jpg)
 
 ## Installation
 
