@@ -16,15 +16,16 @@ This challenge requires me to refactor the codebase for Horiseon marketing agenc
 ## Usage
 
 Now that the website is fully accessible, more people who require screen reading devices can visit it.
-ADD SCREEN SHOT
+(/assets/images/deployed-Horiseon-.jpg)
 
 ## Installation
 
-Click the link to view the website's final version [ Horiseon Marketing ] (website link)
+Click the link to view the website's final version [ Horiseon Marketing ] https://martinokaf.github.io/Horiseon/
 
 ## Credit
 
-edX Boot Camp course materials https://www.w3.org/ 
+edX Boot Camp course materials https://www.w3.org/
+Screen shot of the deloyed website https://www.web2pdfconvert.com/to/img/
 
 ## License
 
